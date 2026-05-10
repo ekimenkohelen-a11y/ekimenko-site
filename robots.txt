@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow:
+
+# Хост и карта сайта
+Host: ekimenko-brend.vercel.app
+Sitemap: https://ekimenko-brend.vercel.app/sitemap.xml
